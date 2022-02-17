@@ -1,0 +1,8 @@
+prefix=/home/mrl/catkin_ws/install
+
+Name: mecanum1
+Description: Description of mecanum1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
